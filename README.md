@@ -10,13 +10,15 @@ Out.jpg ()
 
 ## Run Locally
 Compiling
-'''bash
+```bash
   gcc src/main.c -lm -o main.exe
-'''
+```
+
 Run the code
-'''bash
+```bash
   ./main.exe img/"image.jpg" qtree_level
-'''
+```
+
 
 ## Related
 Some related projects
